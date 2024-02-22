@@ -1,4 +1,3 @@
-import React from 'react';
 import Card from './components/Card';
 import Header from './components/Header';
 import Drawer from './components/Drawer';
@@ -17,7 +16,7 @@ function App() {
           </div>
         </div>
 
-        <div className='d-flex'>
+        <div className="d-flex">
           <Card />
           <Card />
           <Card />
